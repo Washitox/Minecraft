@@ -4,6 +4,7 @@ Simulación de entidades del mundo de Minecraft utilizando principios de Program
 ## 📦 Estructura del Proyecto
 
 📁 src/
+
 ├── EntidadMinecraft.java
 ├── EntidadBase.java
 ├── Jugador.java
