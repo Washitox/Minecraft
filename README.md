@@ -2,6 +2,7 @@
 Simulación de entidades del mundo de Minecraft utilizando principios de Programación Orientada a Objetos en Java.
 
 ## 📦 Estructura del Proyecto
+
 📁 src/
 ├── EntidadMinecraft.java
 ├── EntidadBase.java
