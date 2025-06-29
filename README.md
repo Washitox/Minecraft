@@ -6,10 +6,15 @@ Simulación de entidades del mundo de Minecraft utilizando principios de Program
 📁 src/
 
 ├── EntidadMinecraft.java
+
 ├── EntidadBase.java
+
 ├── Jugador.java
+
 ├── Zombi.java
+
 ├── Aldeano.java
+
 └── Main.java
 
 ## ⚙️ Tecnologías y Requisitos
